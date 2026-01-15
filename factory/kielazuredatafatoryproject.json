@@ -1,0 +1,9 @@
+{
+	"name": "kielazuredatafatoryproject",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6cdd9dfc-1ae9-43be-b326-21726380f370",
+		"tenantId": "63084016-a35d-4323-8872-73e5b99f10e6"
+	}
+}
